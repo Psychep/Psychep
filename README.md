@@ -1,4 +1,4 @@
-# Hi I'm Jessica 👋
+# Hi I'm Salih 👋
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/SalihGungormez/)](www.linkedin.com/in/SalihGungormez)
 [![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@salihgnrmz27)](https://medium.com/@salihgnrmz27)
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/salihgngormez/)](https://www.instagram.com/salihgngormez/)
