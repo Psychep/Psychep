@@ -1,8 +1,8 @@
 # Hi I'm Salih 👋
 [![Linkedin Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhevallica)](www.linkedin.com/in/SalihGungormez)
-[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@salihgnrmz27)](https://medium.com/@salihgnrmz27)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/salihgngormez/)](https://www.instagram.com/salihgngormez/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:salihgungormez@outlook.com)](mailto:salihgungormez@outlook.com)
+[![Medium Badge](https://img.shields.io/badge/-@Salih-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@salihgnrmz27)](https://medium.com/@salihgnrmz27)
+[![Instagram Badge](https://img.shields.io/badge/-@Salihgngormez-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/salihgngormez/)](https://www.instagram.com/salihgngormez/)
+[![Gmail Badge](https://img.shields.io/badge/-Salih-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:salihgungormez@outlook.com)](mailto:salihgungormez@outlook.com)
 https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhevallica
 
 
