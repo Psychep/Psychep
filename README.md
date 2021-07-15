@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi I'm Jessica 👋
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/SalihGungormez/)](www.linkedin.com/in/SalihGungormez)
+[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@salihgnrmz27)](https://medium.com/@salihgnrmz27)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/salihgngormez/)](https://www.instagram.com/salihgngormez/)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:salihgungormez@outlook.com)](mailto:salihgungormez@outlook.com)
+
+
+
 
 <!--
 **Psychep/Psychep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
