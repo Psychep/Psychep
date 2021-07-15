@@ -3,7 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@Salih-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@salihgnrmz27)](https://medium.com/@salihgnrmz27)
 [![Instagram Badge](https://img.shields.io/badge/-@Salihgngormez-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/salihgngormez/)](https://www.instagram.com/salihgngormez/)
 [![Gmail Badge](https://img.shields.io/badge/-Salih-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:salihgungormez@outlook.com)](mailto:salihgungormez@outlook.com)
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhevallica
+[![Twitter Badge](https://img.shields.io/badge/-@Hevallica-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Hevallica)](https://twitter.com/Hevallica)
 
 
 
