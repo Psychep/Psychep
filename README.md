@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 ![GraphQl](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psychep&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
