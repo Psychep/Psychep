@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwind-css-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
 
 
